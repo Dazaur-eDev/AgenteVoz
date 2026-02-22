@@ -231,7 +231,7 @@ El `agentName` en el dispatch debe coincidir con el definido en `WorkerOptions`.
 ## Ejecución
 
 ```bash
-python agent.py dev
+uv run agent_icm.py dev   
 ```
 
 Puedes usar https://agents-playground.livekit.io/ para probar el funcionamiento del flujo MCP, la base de conocimiento y las conversaciion con el LLM
