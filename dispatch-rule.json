@@ -1,0 +1,18 @@
+{
+  "dispatch_rule": {
+    "rule": {
+      "dispatchRuleIndividual": {
+        "roomPrefix": "call-"
+      }
+    },
+    "trunkIds": ["ST_tpRaah5L9hYc"],
+    "name": "DR Autofuturo",
+    "roomConfig": {
+      "agents": [
+        {
+          "agentName": "autofuturo-ia"
+        }
+      ]
+    }
+  }
+}

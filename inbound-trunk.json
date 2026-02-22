@@ -1,0 +1,7 @@
+{
+  "trunk": {
+      "name": "Trunk twilio",
+      "numbers": ["+15139957074"],
+      "krispEnabled": true
+  }
+}
